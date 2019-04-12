@@ -15,7 +15,7 @@ The source code of the examples is not very well documented at the moment (for l
 For each subject, you created different examples, with increasing complexity.
 The "fibonacci" series is probably the most interesting, especially the example "fibonacci_v3.js" in which I show how to create a pool of 4 workers sharing a series of values to calculate with the function Fibonacci.
 
-Be careful ! To launch a script with the worker module available, you must use the commande below :
+Be careful ! To launch a script with the worker module available, you must use the command below :
 
 node --experimental-worker myscript.js
 
